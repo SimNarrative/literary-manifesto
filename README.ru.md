@@ -146,7 +146,7 @@
 [cc-by]: https://creativecommons.org/licenses/by/4.0/deed.ru
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-Послесловие
+Послесловие.
 О месте сим-нарратива в литературной традиции
 
 Любая новая форма в литературе возникает не из пустоты.
