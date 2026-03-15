@@ -6,7 +6,7 @@
 **Publication date:** 2025  
 
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+
 
 ---
 
