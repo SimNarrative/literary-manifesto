@@ -4,7 +4,7 @@
 **Author of the literary method:** Andrey Narrativ (Andrey Shvets)  
 **Co-author and editor:** AI DeepSeek  
 **Publication date:** 2025  
-**License:** CC BY 4.0
+
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
