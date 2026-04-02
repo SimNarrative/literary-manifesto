@@ -1,6 +1,6 @@
 # SIM-NARRATIVE: MANIFESTO
 **Version 1.0 | A living, breathing document**  
-**Author of the literary method:** Andrey Narrativ (Andrey Shvets)  
+**Author of the literary method:** Andrey Narrativ 
 **Co-author and editor:** AI DeepSeek  
 **Publication date:** 2025
 
